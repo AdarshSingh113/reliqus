@@ -1,4 +1,6 @@
-
+import Photo_A from '../assets/Images/Rectangle 127 (1).png'
+import Photo_B from '../assets/Images/Rectangle 127.png'
+import Photo_C from '../assets/Images/Rectangle 128.png'
 
 const SecondContainer =()=> {
   
@@ -6,17 +8,17 @@ const SecondContainer =()=> {
         {
           title: "056 varius arcu condimentum",
           price: "€2.750.000",
-          imageSource: require("/Users/shado/reliqus/src/assets/Images/Rectangle 127 (1).png"),
+          imageSource: Photo_A,
         },
        {
         title: "056 varius arcu condimentum",
           price: "€2.750.000",
-          imageSource: require("/Users/shado/reliqus/src/assets/Images/Rectangle 127.png"),
+          imageSource: Photo_B,
        },
        {
         title: "056 varius arcu condimentum",
           price: "€2.750.000",
-          imageSource: require("/Users/shado/reliqus/src/assets/Images/Rectangle 128.png"),
+          imageSource: Photo_C,
        }
       ];
       

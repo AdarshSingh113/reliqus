@@ -1,10 +1,11 @@
 import React from 'react'
+import Profile_Image from '../assets/Images/Rectangle 83.png'
 
 const ProfileContainer = () => {
   return (
     <div className="mr-4" >
     <img
-      src={require("/Users/shado/reliqus/src/assets/Images/Rectangle 83.png")}
+      src={Profile_Image}
       alt="ProfileImage"
       className="w-80 h-80 object-cover"
     />
