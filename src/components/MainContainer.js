@@ -8,7 +8,7 @@ const MainContainer = () => {
     <div className="w-full bg-green-300 flex-1 font-montserrat">
       <img
         src={Background_Image}
-        alt="My Image"
+        alt="My backg"
       />
       <div className="absolute top-12  left-10 flex flex-row align items-center justify-between w-10/12 ">
         <img

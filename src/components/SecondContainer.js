@@ -34,7 +34,7 @@ const SecondContainer =()=> {
             <div key={index} className="mr-4" >
       <img
         src={item?.imageSource}
-        alt="My Image"
+        alt="My source"
         className="w-80 h-80 object-cover"
       />
       <h1 className="">{item?.title}</h1>

@@ -6,7 +6,7 @@ const ProfileContainer = () => {
     <div className="mr-4" >
     <img
       src={Profile_Image}
-      alt="ProfileImage"
+      alt="Profile"
       className="w-80 h-80 object-cover"
     />
     <h1 className="text-3xl mt-5 font-Prata">Harry Wilson</h1>
